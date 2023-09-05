@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShiftsManagementApp</string>
+    <string name="name_of_shift_hint">Введите название </string>
+    <string name="select_color_button_text">Выберете цвет </string>
+    <string name="add_new_shift_button_text">Добавить смену </string>
+    <string name="to_calendar_button_text">Закончить </string>
+    <string name="change_shifts_button_text">Изменить график </string>
+    <string name="confirm_button_text">Установить </string>
+    <string name="name_of_shift_view_text">Выбранная смена: </string>
+    <string name="from_info_to_calendar_button_text">К календарю </string>
+    <string name="shift_view_text">Смена:  </string>
+    <string name="selected_date_calendar_view_text">Выбранная дата: </string>
+</resources>

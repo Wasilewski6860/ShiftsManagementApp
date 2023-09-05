@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1017744741860",
+    "firebase_url": "https://shiftsmanagementdatabase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shiftsmanagementdatabase",
+    "storage_bucket": "shiftsmanagementdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017744741860:android:710a5d0ed78fa3461423f1",
+        "android_client_info": {
+          "package_name": "com.example.newtryofappwithworkingshifts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017744741860-g2ihgl0037hfnudnh3on2k7m7im48k4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgEdLW4a3U_qerDeNPRNrYRdW8KV1yyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017744741860-g2ihgl0037hfnudnh3on2k7m7im48k4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017744741860:android:3d77fdaf15e85c0b1423f1",
+        "android_client_info": {
+          "package_name": "com.example.shiftsmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017744741860-rm5lt68svn58nkfu24tribmi0g6gs8it.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiftsmanagementapp",
+            "certificate_hash": "6ba3d360af44afbe88d9aa45fa351121148de94d"
+          }
+        },
+        {
+          "client_id": "1017744741860-g2ihgl0037hfnudnh3on2k7m7im48k4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgEdLW4a3U_qerDeNPRNrYRdW8KV1yyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017744741860-g2ihgl0037hfnudnh3on2k7m7im48k4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
