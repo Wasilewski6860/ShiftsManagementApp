@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_graph"
+    app:startDestination="@id/calendarFragment">
+    <fragment
+        android:id="@+id/calendarFragment"
+        android:name="com.example.newtryofappwithworkingshifts.presentation.calendar.CalendarFragment"
+        android:label="fragment_calendar"
+        tools:layout="@layout/fragment_calendar" >
+        <action
+            android:id="@+id/action_calendarFragment_to_changeSheduleFragment"
+            app:destination="@id/changeSheduleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/changeSheduleFragment"
+        android:name="com.example.newtryofappwithworkingshifts.presentation.change_shedule.ChangeSheduleFragment"
+        android:label="fragment_change_shedule"
+        tools:layout="@layout/fragment_change_shedule" >
+        <action
+            android:id="@+id/action_changeSheduleFragment_to_setStartDateFragment"
+            app:destination="@id/setStartDateFragment" />
+        <action
+            android:id="@+id/action_changeSheduleFragment_to_addShiftFragment"
+            app:destination="@id/addShiftFragment" />
+
+        <action
+            android:id="@+id/action_changeSheduleFragment_to_changeShiftFragment"
+            app:destination="@id/changeShiftFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/setStartDateFragment"
+        android:name="com.example.newtryofappwithworkingshifts.presentation.set_start_date.SetStartDateFragment"
+        android:label="fragment_set_start_date"
+        tools:layout="@layout/fragment_set_start_date" >
+        <action
+            android:id="@+id/action_setStartDateFragment_to_changeSheduleFragment"
+            app:destination="@id/changeSheduleFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addShiftFragment"
+        android:name="com.example.newtryofappwithworkingshifts.presentation.add_shift.AddShiftFragment"
+        android:label="fragment_add_shift"
+        tools:layout="@layout/fragment_add_shift" >
+        <action
+            android:id="@+id/action_addShiftFragment_to_changeSheduleFragment"
+            app:destination="@id/changeSheduleFragment" />
+        <argument
+            android:name="id"
+            android:defaultValue="-1"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_addShiftFragment_to_setStartDateFragment"
+            app:destination="@id/setStartDateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/changeShiftFragment"
+        android:name="com.example.newtryofappwithworkingshifts.presentation.change_shift.ChangeShiftFragment"
+        android:label="fragment_change_shift"
+        tools:layout="@layout/fragment_change_shift">
+
+        <argument
+            android:name="id"
+            android:defaultValue="-1"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_changeShiftFragment_to_changeSheduleFragment"
+            app:destination="@id/changeSheduleFragment" />
+
+    </fragment>
+</navigation>
