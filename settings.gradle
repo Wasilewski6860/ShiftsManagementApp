@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "NewTryOfAppWithWorkingShifts"
+rootProject.name = "NewShiftsApp"
 include ':app'
