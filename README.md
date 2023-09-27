@@ -14,26 +14,38 @@ Written using Kotlin, Room for database, Koin for Dependency Injections, Ambilwa
 
 <li>
   Main screen
+</li>
+<li>
   <img src="screenshots/Screenshot_20230927_232907.png" width="500">
 </li>
 <li>
   Shifts screen
+</li>
+<li>
   <img src="screenshots/Screenshot_20230927_232943.png" width="500">
 </li>
 <li>
   Set start date screen
+</li>
+<li>
   <img src="screenshots/Screenshot_20230927_233005.png" width="500">
 </li>
 <li>
   Edit shift
+</li>
+<li>
   <img src="screenshots/Screenshot_20230927_233136.png" width="500">
 </li>
 <li>
   Test on first date
+</li>
+<li>
   <img src="screenshots/Screenshot_20230927_233208.png" width="500">
 </li>
 <li>
-   Test on second date
+  Test on second date
+</li>
+<li>
   <img src="screenshots/Screenshot_20230927_233218.png" width="500">
 </li>
 
