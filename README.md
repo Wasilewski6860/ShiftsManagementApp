@@ -11,7 +11,7 @@ Written using Kotlin, Room for database, Koin for Dependency Injections, Ambilwa
 - Used CalendarView to select the date in question
 
 # Gallery
-
+<img src="screenshots/Screenshot_20230927_232907.png" width="500">
 ![Main Screen](screenshots/Screenshot_20230927_232907.png)
 ![Main Screen](screenshots/Screenshot_20230927_232943.png)
 ![Main Screen](screenshots/Screenshot_20230927_233005.png)
