@@ -13,4 +13,10 @@ Written using Kotlin, Room for database, Koin for Dependency Injections, Ambilwa
 # Gallery
 
 ![Main Screen](screenshots/Screenshot_20230927_232907.png)
+![Main Screen](screenshots/Screenshot_20230927_232943.png)
+![Main Screen](screenshots/Screenshot_20230927_233005.png)
+![Main Screen](screenshots/Screenshot_20230927_233136.png)
+![Main Screen](screenshots/Screenshot_20230927_233208.png)
+![Main Screen](screenshots/Screenshot_20230927_233218.png)
+
   
