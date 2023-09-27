@@ -11,12 +11,13 @@ Written using Kotlin, Room for database, Koin for Dependency Injections, Ambilwa
 - Used CalendarView to select the date in question
 
 # Gallery
+Main Screen
 <img src="screenshots/Screenshot_20230927_232907.png" width="500">
-![Main Screen](screenshots/Screenshot_20230927_232907.png)
-![Main Screen](screenshots/Screenshot_20230927_232943.png)
-![Main Screen](screenshots/Screenshot_20230927_233005.png)
-![Main Screen](screenshots/Screenshot_20230927_233136.png)
-![Main Screen](screenshots/Screenshot_20230927_233208.png)
-![Main Screen](screenshots/Screenshot_20230927_233218.png)
+<img src="screenshots/Screenshot_20230927_232943.png" width="500">
+<img src="screenshots/Screenshot_20230927_233005.png" width="500">
+<img src="screenshots/Screenshot_20230927_233136.png" width="500">
+<img src="screenshots/Screenshot_20230927_233208.png" width="500">
+<img src="screenshots/Screenshot_20230927_233218.png" width="500">
+
 
   
