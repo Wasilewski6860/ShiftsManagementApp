@@ -12,5 +12,5 @@ Written using Kotlin, Room for database, Koin for Dependency Injections, Ambilwa
 
 # Gallery
 
-![Main Screen](https://myoctocat.com/assets/images/base-octocat.svg)
+![Main Screen](screenshots/Screenshot_20230927_232907.png)
   
